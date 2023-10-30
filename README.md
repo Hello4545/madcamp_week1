@@ -40,11 +40,11 @@
 
 상세페이지에서 삭제버튼을 누르면 확인 알림이 출력되고 확인 버튼을 누르면 해당 연락처가 삭제됩니다. 이 또한 모든 탭의 정보에 반영됩니다. 
 
-<img src = "/readmePic/Screenshot_20230705-162215.jpg" width = "30%"> <img src = "/readmePic/Screenshot_20230705-162219.jpg" width = "30%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/95fac43d-81b6-4d28-b90d-65e7178c67af" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/60c6ad8f-f3ee-4ad7-aa8f-c20196ceb1ab" width = "30%">
 
 마지막으로 메인 리스트에 있는 + 플로팅 버튼을 누르면 추가 회면으로 넘어가고 새롭게 연락처를 추가할 수 있습니다. 이 또한 모든 탭에 반영됩니다. 
 
-<img src = "/readmePic/Screenshot_20230705-163555.jpg" width = "20%"> <img src = "/readmePic/Screenshot_20230705-163602.jpg" width = "20%"> <img src = "/readmePic/Screenshot_20230705-163805.jpg" width = "20%"> <img src = "/readmePic/Screenshot_20230705-163815.jpg" width = "20%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/a8682219-8400-484a-a4c4-8472e02ca196" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/68209cdd-716e-49fa-9a5e-02cc61b16783" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/b6e95160-9dc7-4eb5-ab6e-ce8641e7cc16" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/8e4bfa38-13f4-4a9f-902d-5ffdda2a398b" width = "20%">
 
 ### Tab2: 갤러리
 
