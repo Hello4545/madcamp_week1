@@ -22,10 +22,8 @@
     기본적으로 목록에는 사람들의 이름만 보이게 하였습니다. 미적 요소를 위해 이름 앞에 랜덤으로 색상이 지정되는 원형의 이미지를 배치하였습니다. 이때 사람의 연락처 목록을 클릭한다면 세부사항을 표시하는 페이지로 넘어가게 됩니다. 
     
 
-<img src="https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644" width="30%" alt="Alt Text">
- <img src = "/readmePic/Screenshot_20230705_160717.png" width = "30%"> <img src = "/readmePic/Untitled%201.png" width = "30%">
-
-![Alt Text](https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644){width=30%}
+<img src="https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644" width="30%" alt="Alt Text"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/5e7437b7-037f-4be4-b396-8664d7c71672" width = "30%"> <img src = "/readmePic/Untitled%201.png" width = "30%">
+![2](https://github.com/Hello4545/madcamp_week1/assets/97602555/5e7437b7-037f-4be4-b396-8664d7c71672)
 
 1. 세부사항 페이지
     
