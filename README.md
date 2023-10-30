@@ -35,7 +35,7 @@
     
     상세 페이지에서는 해당 프로필의 수정이 가능합니다. 프로필 이미지는 카메라로 찍거나 갤러리에서 선택할 수 있고 그 외의 정보들도 수정 가능합니다. 이때 이름과 전화번호의 경우 올바르지 않은 형식이나 입력되지 않았다면 확인버튼을 누를수 없도록 하였습니다. 수정 이후에 리스트, 갤러리, 퀴즈 탭에 모두 반영되도록 하였습니다.  
     
-<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/6a6a3ae8-30bf-4dfa-ae36-e4beb65c5a91" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/4ea93d9d-6003-44f7-b3a5-041baf8aaa97" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/24987885-ea0d-4b7c-aecd-5953611791be" width = "30%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/95fac43d-81b6-4d28-b90d-65e7178c67af" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/60c6ad8f-f3ee-4ad7-aa8f-c20196ceb1ab" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/63dd89d7-f803-4f72-ba07-25596570735d" width = "30%">
 
 상세페이지에서 삭제버튼을 누르면 확인 알림이 출력되고 확인 버튼을 누르면 해당 연락처가 삭제됩니다. 이 또한 모든 탭의 정보에 반영됩니다. 
 
