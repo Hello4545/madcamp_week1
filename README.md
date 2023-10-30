@@ -43,7 +43,7 @@
 
 마지막으로 메인 리스트에 있는 + 플로팅 버튼을 누르면 추가 회면으로 넘어가고 새롭게 연락처를 추가할 수 있습니다. 이 또한 모든 탭에 반영됩니다. 
 
-<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/a8682219-8400-484a-a4c4-8472e02ca196" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/68209cdd-716e-49fa-9a5e-02cc61b16783" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/b6e95160-9dc7-4eb5-ab6e-ce8641e7cc16" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/8e4bfa38-13f4-4a9f-902d-5ffdda2a398b" width = "20%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/b6e95160-9dc7-4eb5-ab6e-ce8641e7cc16" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/8e4bfa38-13f4-4a9f-902d-5ffdda2a398b" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/025e3a2f-011b-4604-99da-afd3465c70ef" width = "20%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/eed1ba53-7637-462d-af9e-0ca36d7675c4" width = "20%">
 
 ### Tab2: 갤러리
 
