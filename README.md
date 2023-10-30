@@ -1,4 +1,4 @@
-# Week 1 - 이름 쌓기
+![17](https://github.com/Hello4545/madcamp_week1/assets/97602555/4ff04137-1dad-45ca-bbf7-4f3b3afef72c)# Week 1 - 이름 쌓기
 
 💡 어플 다운로드 링크 : [https://drive.google.com/file/d/1l8UCuSh1TULLHtMRZvony6FabsSw0hh_/view?usp=sharing](https://drive.google.com/file/d/1l8UCuSh1TULLHtMRZvony6FabsSw0hh_/view?usp=sharing)
 
@@ -53,7 +53,7 @@ GridView를 통해 사람들의 사진을 볼 수 있고, 터치 시 저장한 �
 
 Tab 1 (연락처 탭)에서 연락처 정보나 이미지를 수정했을 시, 갤러리 탭에도 수정 사항이 반영됩니다.
 
-<img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-00-33_001.jpeg" width = "30%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-10-02_001.jpeg" width = "30%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-30-17.jpeg" width = "30%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/f868ce29-5714-44c9-8317-9f23176a7481" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/8f60648d-45ea-4b0a-bb77-fb12d30f834e" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/3b4a396b-e844-4fec-b9c0-9d813c4f74b6" width = "30%">
 
 ### Tab3: 퀴즈
 
