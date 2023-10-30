@@ -24,6 +24,8 @@
 
 <img src = "/readmePic/Untitled.png" width = "30%"> <img src = "/readmePic/Screenshot_20230705_160717.png" width = "30%"> <img src = "/readmePic/Untitled%201.png" width = "30%">
 
+![1](https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644)
+
 1. 세부사항 페이지
     
     연락처 페이지에서 목록을 클릭하면 세부사항 페이지로 넘어가게 됩니다. 상단에 이름과 사진이 표시되고 세부사항으로는 번호, 이메일, 인스타그램이 표시됩니다.
