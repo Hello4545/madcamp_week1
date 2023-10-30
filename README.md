@@ -30,8 +30,7 @@
     
      이때 번호를 클릭하게 되면 기본 다이얼 어플로 화면이 넘어가고 번호가 복사됩니다. 이메일을 클릭하면 기본 이메일 어플로 넘어가게 되고 받는사람의 탭에 이메일이 입력되게 됩니다. 마지막으로 인스타그램을 탭하면 인스타그램 어플로 화면이 넘어가게 되고 해당 프로필 페이지로 이동합니다. 
     
-<img src = "/readmePic/Untitled%202.png" width = "30%"> <img src = "/readmePic/Untitled%203.png" width = "30%"> <img src = "/readmePic/Screenshot_20230705-161442_Instagram.jpg" width = "30%">
-
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/6a6a3ae8-30bf-4dfa-ae36-e4beb65c5a91" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/4ea93d9d-6003-44f7-b3a5-041baf8aaa97" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/24987885-ea0d-4b7c-aecd-5953611791be" width = "30%">
 1. 수정/삭제/추가
     
     상세 페이지에서는 해당 프로필의 수정이 가능합니다. 프로필 이미지는 카메라로 찍거나 갤러리에서 선택할 수 있고 그 외의 정보들도 수정 가능합니다. 이때 이름과 전화번호의 경우 올바르지 않은 형식이나 입력되지 않았다면 확인버튼을 누를수 없도록 하였습니다. 수정 이후에 리스트, 갤러리, 퀴즈 탭에 모두 반영되도록 하였습니다.  
