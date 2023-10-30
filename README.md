@@ -80,4 +80,5 @@ Tab 1 (연락처 탭)에서 연락처 정보나 이미지를 수정했을 시, �
     
     해당 화면에서 “종료하기” 버튼을 누르면 ResultActivity가 종료되며, NaviActivity로 이동합니다.
 
-<img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-00-33_002.jpeg" width = "15%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-00-34_003.jpeg" width = "15%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-10-03_002.jpeg" width = "15%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-10-03_003.jpeg" width = "15%"> <img src = "/readmePic/KakaoTalk_Photo_2023-07-05-16-09-57.jpeg" width = "15%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/a7bd9288-7a84-4fc8-8047-4ba83afe14e6" width = "15%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/fce13634-c8b2-4f03-92b8-1c8ace04404e" width = "15%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/88c9d40b-4d66-4dc4-bd6c-7a1a1ddf7bf2" width = "15%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/d9fc6922-1fad-4326-8b65-ff69b6421750" width = "15%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/d13167cb-b636-4fb1-9192-23a5fb1040de" width = "15%">
+
