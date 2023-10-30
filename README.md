@@ -24,7 +24,7 @@
 
 <img src = "/readmePic/Untitled.png" width = "30%"> <img src = "/readmePic/Screenshot_20230705_160717.png" width = "30%"> <img src = "/readmePic/Untitled%201.png" width = "30%">
 
-![1](https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644)
+![Alt Text](https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644){width=30%}
 
 1. 세부사항 페이지
     
