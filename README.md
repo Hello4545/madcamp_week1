@@ -1,4 +1,4 @@
-![17](https://github.com/Hello4545/madcamp_week1/assets/97602555/4ff04137-1dad-45ca-bbf7-4f3b3afef72c)# Week 1 - 이름 쌓기
+# Week 1 - 이름 쌓기
 
 💡 어플 다운로드 링크 : [https://drive.google.com/file/d/1l8UCuSh1TULLHtMRZvony6FabsSw0hh_/view?usp=sharing](https://drive.google.com/file/d/1l8UCuSh1TULLHtMRZvony6FabsSw0hh_/view?usp=sharing)
 
