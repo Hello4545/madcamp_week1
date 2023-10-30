@@ -22,8 +22,7 @@
     기본적으로 목록에는 사람들의 이름만 보이게 하였습니다. 미적 요소를 위해 이름 앞에 랜덤으로 색상이 지정되는 원형의 이미지를 배치하였습니다. 이때 사람의 연락처 목록을 클릭한다면 세부사항을 표시하는 페이지로 넘어가게 됩니다. 
     
 
-<img src="https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644" width="30%" alt="Alt Text"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/5e7437b7-037f-4be4-b396-8664d7c71672" width = "30%"> <img src = "/readmePic/Untitled%201.png" width = "30%">
-![2](https://github.com/Hello4545/madcamp_week1/assets/97602555/5e7437b7-037f-4be4-b396-8664d7c71672)
+<img src="https://github.com/Hello4545/madcamp_week1/assets/97602555/b7f06ad3-0eb7-4853-8fa2-a9a9799d4644" width="30%" alt="Alt Text"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/5e7437b7-037f-4be4-b396-8664d7c71672" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/99673c12-6882-4d93-9500-5c6b47cf4b5d" width = "30%">
 
 1. 세부사항 페이지
     
@@ -37,7 +36,7 @@
     
     상세 페이지에서는 해당 프로필의 수정이 가능합니다. 프로필 이미지는 카메라로 찍거나 갤러리에서 선택할 수 있고 그 외의 정보들도 수정 가능합니다. 이때 이름과 전화번호의 경우 올바르지 않은 형식이나 입력되지 않았다면 확인버튼을 누를수 없도록 하였습니다. 수정 이후에 리스트, 갤러리, 퀴즈 탭에 모두 반영되도록 하였습니다.  
     
-<img src = "/readmePic/Screenshot_20230705-161850.jpg" width = "30%"> <img src = "/readmePic/Screenshot_20230705-162130.jpg" width = "30%"> <img src = "/readmePic/Screenshot_20230705-162152.jpg" width = "30%">
+<img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/6a6a3ae8-30bf-4dfa-ae36-e4beb65c5a91" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/4ea93d9d-6003-44f7-b3a5-041baf8aaa97" width = "30%"> <img src = "https://github.com/Hello4545/madcamp_week1/assets/97602555/24987885-ea0d-4b7c-aecd-5953611791be" width = "30%">
 
 상세페이지에서 삭제버튼을 누르면 확인 알림이 출력되고 확인 버튼을 누르면 해당 연락처가 삭제됩니다. 이 또한 모든 탭의 정보에 반영됩니다. 
 
